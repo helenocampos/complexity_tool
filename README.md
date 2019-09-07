@@ -48,7 +48,7 @@ mvn install
 ```
 
 # How to execute the GUI
-Execute the jar with dependencies that is generated in the target folder or download the jar from the releases page.
+Execute the jar with dependencies that is generated in the target folder or download the jar (or the .exe if you prefer) from the releases page.
 
 
 

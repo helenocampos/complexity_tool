@@ -1,6 +1,6 @@
 # Complexity Tool
 
-This project is a reserach product developed at IF Sudeste MG since 2014. The main research goal is to study and develop techniques related to program structural complexity and assess their impact on unit tests.
+This project is a research product developed at IF Sudeste MG since 2014. The main research goal is to study and develop techniques related to program structural complexity and assess their impact on unit tests.
 In particular, the software from this respository has the following features:
 - Plot the control flow graph of a method based on a given Java source code.
 - Calculate the cyclomatic complexity based on the plotted graph.
@@ -38,7 +38,7 @@ Publications related to this project:
 # How to compile
 Clone the repository
 ```
-git clone https://github.com/helenocampos/complexity_tool
+git clone https://github.com/helenocampos/complexity_tool.git
 ```
 
 Enter directory and compile with Maven
